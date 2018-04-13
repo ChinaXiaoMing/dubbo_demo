@@ -11,9 +11,6 @@ dubbo_demo</br>
 ├─dubbo_consumer -- 服务消费模块</br>
 ├─dubbo_provider -- 服务生产模块
 
-## 开发工具
-IntelliJ IDEA 官网下载地址：https://www.jetbrains.com/idea/download/
-
 ## 技术选型
 技术 | 名称 | 官网
 ----|------|----
@@ -21,3 +18,14 @@ Spring Framework | 容器  | [http://projects.spring.io/spring-framework/](http:
 ZooKeeper | 分布式协调服务  | [http://zookeeper.apache.org/](http://zookeeper.apache.org/)
 Dubbo | 分布式服务框架  | [http://dubbo.io/](http://dubbo.io/)
 Maven | 项目构建工具  | [http://maven.apache.org/](http://maven.apache.org/)
+
+## 开发工具
+- IntelliJ IDEA: 开发IDE
+- Git: 版本管理
+
+## 开发环境
+- JDK1.8
+- Maven 3.5.5
+- Tomcat 
+- Zookeeper
+- Dubbo-admin
