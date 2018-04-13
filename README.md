@@ -5,6 +5,12 @@
 ## 项目介绍
 根据官方案例搭建得dubbo+zoopeeker入门案例
 
+## 项目结构
+dubbo_demo</br>
+├─common_api -- 公共api模块</br>
+├─dubbo_consumer -- 服务消费模块</br>
+├─dubbo_provider -- 服务生产模块
+
 ## 开发工具
 IntelliJ IDEA 官网下载地址：https://www.jetbrains.com/idea/download/
 
