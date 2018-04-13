@@ -12,4 +12,4 @@ IntelliJ IDEA 官网下载地址：https://www.jetbrains.com/idea/download/
 Spring Framework | 容器  | [http://projects.spring.io/spring-framework/](http://projects.spring.io/spring-framework/)
 ZooKeeper | 分布式协调服务  | [http://zookeeper.apache.org/](http://zookeeper.apache.org/)
 Dubbo | 分布式服务框架  | [http://dubbo.io/](http://dubbo.io/)
-Maven | 项目构建管理  | [http://maven.apache.org/](http://maven.apache.org/)
+Maven | 项目构建工具  | [http://maven.apache.org/](http://maven.apache.org/)
