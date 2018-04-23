@@ -6,7 +6,7 @@
     <!-- 应用模块名称 -->
     <dubbo:application name="dubbo_consumer"/>
     <!-- 注册中心 -->
-    <dubbo:registry protocol="zookeeper" address="zookeeper://localhost:2181" check="false"/>
+    <dubbo:registry protocol="zookeeper" address="zookeeper://47.106.88.138:2181" check="false"/>
     <!-- 订阅服务接口 -->
     <dubbo:reference interface="com.nexwise.service.DemoService" id="demoService" check="false"/>
 </beans>
