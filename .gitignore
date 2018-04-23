@@ -28,3 +28,7 @@ target/
 *.diff
 *.patch
 *.tmp
+/common_api/common_api.iml
+/dubbo_consumer/dubbo_consumer.iml
+/dubbo_provider/dubbo_provider.iml
+/dubbo_demo.iml
